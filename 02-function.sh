@@ -1,3 +1,3 @@
 SAMPLE () {
-  echo Hello Nduka - Sample Function
+  echo Hello Nduka Ojeh - Sample Function
 }
